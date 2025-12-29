@@ -30,7 +30,7 @@ This project demonstrates strong fundamentals of **frontend development**, inclu
 
 - **HTML5** – Structure of the game  
 - **CSS3** – Styling and layout  
-- **JavaScript (Vanilla)** – Game logic, DOM manipulation, and event handling  
+- **JavaScript** – Game logic, DOM manipulation, and event handling  
 
 ---
 
