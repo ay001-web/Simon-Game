@@ -87,16 +87,18 @@ cd Simon-Game
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project for learning purposes.
----
 
+---
 
 ## 🙌 Acknowledgements
 
 Inspired by the classic **Simon electronic memory game**.  
 Built as part of frontend development practice and portfolio projects.
+
 ---
 
-⭐ If you liked this project, consider starring the repository to support my work.
+⭐ *If you found this project useful, consider starring the repository.*
+
 
 
 
