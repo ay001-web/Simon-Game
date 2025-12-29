@@ -18,11 +18,11 @@ This project demonstrates strong fundamentals of **frontend development**, inclu
 
 ## 🚀 Features
 
-- 🎨 Interactive and responsive UI  
-- 🔊 Sound effects for each button  
-- 🧠 Progressive difficulty with level tracking  
-- ⌨️ Keyboard-based game start  
-- ❌ Game-over feedback with reset functionality  
+-  Interactive and responsive UI.  
+-  Sound effects for each button. 
+-  Progressive difficulty with level tracking.  
+-  Keyboard-based game start.  
+-  Game-over feedback with reset functionality.  
 
 ---
 
@@ -58,7 +58,7 @@ Simon-Game/
 3. Repeat the sequence by clicking the buttons in the correct order.  
 4. Each level adds a new color to the sequence. 
 5. A wrong move ends the game and resets the level.
-
+---
 
 ## 💻 Run Locally
 
@@ -67,4 +67,37 @@ To run this project on your local machine:
 ```bash
 git clone https://github.com/ay001-web/Simon-Game.git
 cd Simon-Game
+```
+
+## 📸 Preview
+
+![Simon Game Preview](preview.png)
+---
+
+## 🎯 Learning Outcomes
+
+- Improved understanding of JavaScript logic and control flow.  
+- Hands-on experience with DOM manipulation.  
+- Better grasp of event-driven programming.  
+- Practical exposure to Git and GitHub workflow.  
+- Experience deploying projects using GitHub Pages.
+ ---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project for learning purposes.
+---
+
+
+## 🙌 Acknowledgements
+
+Inspired by the classic **Simon electronic memory game**.  
+Built as part of frontend development practice and portfolio projects.
+---
+
+⭐ If you liked this project, consider starring the repository to support my work.
+
+
+
 
